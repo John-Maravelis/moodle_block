@@ -1,1 +1,1 @@
-This is a a custom Moodle block developed as a project for a university class.
+This a custom Moodle block developed for a university project. Its purpose is to show the users registered to all of your classes and all the currently active classes you have.
