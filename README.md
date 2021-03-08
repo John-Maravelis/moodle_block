@@ -1,0 +1,1 @@
+This is a a custom Moodle block developed as a project for a university class.
